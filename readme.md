@@ -1,7 +1,7 @@
 ```py
 from GitHub import ReadMe
 
-class 8e9(ReadMe):
+class Josh(ReadMe):
 
     def __init__(self):
         self.username = "8e9"
